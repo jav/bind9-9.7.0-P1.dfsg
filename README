@@ -1,3 +1,9 @@
+### Note: This is a patched version, RR DHTNS has been added.
+### The purpose is to have a testing tool (dig) to request DHTNS records.
+
+
+
+
 BIND 9
 
 	BIND version 9 is a major rewrite of nearly all aspects of the
